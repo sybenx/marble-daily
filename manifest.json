@@ -2,5 +2,7 @@
  "version": 1,
  "days": [],
  "preview_bot": "95e0fa73ad7081a0cb5a1b22140aa2fcc8f02de17b5a3c5acc21b9889bd86ba6",
- "updated": "2026-10-26T03:42:59Z"
+ "updated": "2026-10-26T12:02:25Z",
+ "issuer": "https://marble-issuer.sybenx.workers.dev",
+ "issuer_pubkey": "f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e"
 }
