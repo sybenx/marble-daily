@@ -33,4 +33,5 @@ named, and kept private until its day. It is published here at 00:00 UTC on its 
 - `days` is sorted by `date`, oldest first. Entries are never removed or renamed, so `id`, `date`, `name` and `image` are stable.
 - `date` is a UTC calendar date. A marble is the marble of the day from 00:00 to 24:00 UTC on its `date`, the same day for everyone. The app should pick the entry whose `date` equals today's UTC date.
 - An entry appears within about 10 minutes after 00:00 UTC on its day (plus GitHub Pages' build time and cache, up to ~10 more minutes). Future marbles are never in the manifest.
+- `detail`: the marble's own width in the render, in px (about 530–580). That is the real detail; the 768 px `image` is an upscale of it. Older entries may lack it. Top level: `issuer` (URL) and `issuer_pubkey` (hex) for the daily badges; night entries carry `badge` ("30009:<issuer_pubkey>:marble-<date>").
 - `status` is `ok` or `vetoed` (vetoed after it went live). Treat `vetoed`, a missing day or a failed fetch the same way: show a marble from the app's bundled rotation. Re-fetch now and then during the day; a missing entry early in the day may still arrive.
