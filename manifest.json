@@ -1,8 +1,23 @@
 {
  "version": 1,
- "days": [],
+ "days": [
+  {
+   "id": "marble-2026-10-27",
+   "date": "2026-10-27",
+   "name": "Ruby Rift",
+   "style": "oxblood-opaque",
+   "image": "https://sybenx.github.io/marble-daily/marbles/2026-10-27.png",
+   "sha256": "e65330f83b8ee5e74a9e75ec4157d21f0205846d05c241c6c18f236fbf1d58db",
+   "size": 768,
+   "seed": 171522334,
+   "model": "z-image-turbo-4bit (mac mini)",
+   "status": "ok",
+   "detail": 535,
+   "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-10-27"
+  }
+ ],
  "preview_bot": "95e0fa73ad7081a0cb5a1b22140aa2fcc8f02de17b5a3c5acc21b9889bd86ba6",
- "updated": "2026-10-26T12:02:25Z",
+ "updated": "2026-10-27T00:04:15Z",
  "issuer": "https://marble-issuer.sybenx.workers.dev",
  "issuer_pubkey": "f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e"
 }
