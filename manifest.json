@@ -14,10 +14,24 @@
    "status": "ok",
    "detail": 535,
    "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-10-27"
+  },
+  {
+   "id": "marble-2026-10-28",
+   "date": "2026-10-28",
+   "name": "Honey Ribbon",
+   "style": "amber-swirl",
+   "image": "https://sybenx.github.io/marble-daily/marbles/2026-10-28.png",
+   "sha256": "bff50bd72ea48aaed8760a6f47f88a1e1e1733b3910bedde88f3c9d2973c509e",
+   "size": 768,
+   "seed": 102609687,
+   "model": "z-image-turbo-4bit (mac mini)",
+   "status": "ok",
+   "detail": 576,
+   "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-10-28"
   }
  ],
  "preview_bot": "95e0fa73ad7081a0cb5a1b22140aa2fcc8f02de17b5a3c5acc21b9889bd86ba6",
- "updated": "2026-10-27T00:04:15Z",
+ "updated": "2026-10-28T00:00:53Z",
  "issuer": "https://marble-issuer.sybenx.workers.dev",
  "issuer_pubkey": "f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e"
 }
