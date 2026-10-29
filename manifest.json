@@ -28,10 +28,24 @@
    "status": "ok",
    "detail": 576,
    "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-10-28"
+  },
+  {
+   "id": "marble-2026-10-29",
+   "date": "2026-10-29",
+   "name": "Midnight Swirl",
+   "style": "twilight",
+   "image": "https://sybenx.github.io/marble-daily/marbles/2026-10-29.png",
+   "sha256": "eed30368d4cf57eb28d2871c67f2ef80b9054e99826e1d7c5d99e8d87ac6b99d",
+   "size": 768,
+   "seed": 1498075793,
+   "model": "z-image-turbo-4bit (mac mini)",
+   "status": "ok",
+   "detail": 600,
+   "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-10-29"
   }
  ],
  "preview_bot": "95e0fa73ad7081a0cb5a1b22140aa2fcc8f02de17b5a3c5acc21b9889bd86ba6",
- "updated": "2026-10-28T00:00:53Z",
+ "updated": "2026-10-29T00:00:40Z",
  "issuer": "https://marble-issuer.sybenx.workers.dev",
  "issuer_pubkey": "f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e"
 }
