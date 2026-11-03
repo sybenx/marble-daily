@@ -56,10 +56,24 @@
    "status": "ok",
    "detail": 616,
    "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-11-02"
+  },
+  {
+   "id": "marble-2026-11-03",
+   "date": "2026-11-03",
+   "name": "Amber Flow",
+   "style": "rose-gold",
+   "image": "https://sybenx.github.io/marble-daily/marbles/2026-11-03.png",
+   "sha256": "c8bdf82fe2457a8cd0f32e84d9e01791348e1e682e40a4b7ea78bb468c09104e",
+   "size": 768,
+   "seed": 1770399897,
+   "model": "z-image-turbo-4bit (mac mini)",
+   "status": "ok",
+   "detail": 609,
+   "badge": "30009:f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e:marble-2026-11-03"
   }
  ],
  "preview_bot": "95e0fa73ad7081a0cb5a1b22140aa2fcc8f02de17b5a3c5acc21b9889bd86ba6",
- "updated": "2026-11-02T00:14:56Z",
+ "updated": "2026-11-03T00:09:13Z",
  "issuer": "https://marble-issuer.sybenx.workers.dev",
  "issuer_pubkey": "f0870a8fa68b795ffc4fbe516d9a844705b87e0fd072d5b860a849199dc2907e"
 }
